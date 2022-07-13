@@ -1,0 +1,36 @@
+#cart{
+    margin-left: 950%;
+}
+
+.image{
+    width:50px; 
+    height: 50px;
+}
+
+
+.products{
+    width:300px;
+    height: 300px;
+    margin: 5%;
+}
+
+p{
+    text-align: center;
+   
+}
+
+#bakedgood{
+    border: none; 
+    margin-left: 40%;
+}
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdownsort{
+  position: relative;
+  display: inline-block;
+}
+
+
+
+

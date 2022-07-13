@@ -1,0 +1,10 @@
+Insert into Items(itemID, itemName, itemImage, price, description, diet_type)values(20001, '1', '../media/1.png', 3000, 'This is the first image', '');
+Insert into Items(itemID, itemName, itemImage, price, description, diet_type)values(20002, '3', '../media/3.png', 2500, 'This is the second image', '');
+Insert into Items(itemID, itemName, itemImage, price, description, diet_type)values(20003, '4', '../media/4.png', 1700, 'This is the third image', '');
+Insert into Items(itemID, itemName, itemImage, price, description, diet_type)values(20004, '5', '../media/5.png', 2600, 'This is the forth image', '');
+Insert into Items(itemID, itemName, itemImage, price, description, diet_type)values(20005, '6', '../media/6.png', 2000, 'This is the fifth image', 'non-vegetarian');
+Insert into Items(itemID, itemName, itemImage, price, description, diet_type)values(20006, 'Cherry New York Cheesecake', '../media/7.png', 800, 'This is a yummy Cherry New York Cheesecake', 'non-vegetarian');
+Insert into Items(itemID, itemName, itemImage, price, description, diet_type)values(20007, '8', '../media/8.png', 2100, 'This is the seventh image', 'non-vegetarian');
+Insert into Items(itemID, itemName, itemImage, price, description, diet_type)values(20008, 'Cinnamon Buns', '../media/9.png', 1500, 'These are 9 Cinnamon Buns for sale', 'non-vegetarian');
+Insert into Items(itemID, itemName, itemImage, price, description, diet_type)values(20009, '10', '../media/10.png', 1200, 'This is the ninth image', 'non-vegetarian');
+Insert into Items(itemID, itemName, itemImage, price, description, diet_type)values(20010, '11', '../media/11.png', 1900, 'This is the tenth image', '');
